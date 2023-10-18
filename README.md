@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CQLLL
+- 👋 Hi, I’m Itachi Cheng.
 - 👀 I’m interested in machine learning.
 - 🌱 I’m currently learning NLP.
 - 💞️ I’m looking to collaborate on ....
